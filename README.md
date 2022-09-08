@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishanrandika95" target="blank"><img src="https://img.shields.io/twitter/follow/ishanrandika95?logo=twitter&style=for-the-badge" alt="ishanrandika95" /></a> </p>
 
-<p><img align="center" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sj331h5psr6draixy9cfsltnnlia0j9w8qpea31k&rid=giphy.gif&ct=g" alt="image" /></p> 
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sj331h5psr6draixy9cfsltnnlia0j9w8qpea31k&rid=giphy.gif&ct=g" alt="image" />
 
 - 🌱 I’m currently learning **Material UI | Mongo DB | Typescript**
 
