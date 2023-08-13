@@ -8,9 +8,9 @@
 
 <img align="right" width= "350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sj331h5psr6draixy9cfsltnnlia0j9w8qpea31k&rid=giphy.gif&ct=g" alt="image" /> </br>
 
-- 🌱 I’m currently learning **Material UI | Mongo DB | Typescript**
+- 🌱 I’m currently learning **Material UI | Mongo DB | Typescript | Angular**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Java, Material UI**
 
 - 📫 How to reach me **ishanillangakoon@gmail.com**
 
