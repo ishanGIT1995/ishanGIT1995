@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ** Mongo DB | Typescript | C# | Asp.Net**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Java, Material UI**
+- 💬 Ask me about **HTML, CSS, JavaScript, C#, ,.NET 6 | .NET 7, React, Node, Java, Material UI**
 
 - 📫 How to reach me **ishanillangakoon@gmail.com**
 
