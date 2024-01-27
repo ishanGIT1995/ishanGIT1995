@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C#, ,.NET 6 | .NET 7, React, Node, Java, Material UI**
 
-- 📫 How to reach me **ishanillangakoon@gmail.com**
+- 📫 How to reach me **ishanrandikadev95@gmail.com**
 
 - ⚡ Fun fact **Movies and Tv series lover**
 
