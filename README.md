@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Randika</h1>
-<h3 align="center">A hardworking Web developer and a Science graduate from  the University of Colombo 🎓 has had a passion for Computer Science 💻|📱  and Mathematics since childhood and looking forward to improving my skills in Software Engineering.</h3>
+<h3 align="center">A hardworking Software developer and a Science graduate from  the University of Colombo 🎓 has had a passion for Computer Science 💻|📱  and Mathematics since childhood and looking forward to improving my skills in Software Engineering.</h3>
 
 <br/>
 <br/>
