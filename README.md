@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Randika</h1>
-<h3 align="center">A hardworking Web developer and a Science graduate from  University of Colombo 🎓 has had a passion for Computer Science 💻|📱  and Mathematics since childhood and looking forward to improving my skills in Software Engineering.</h3>
+<h3 align="center">A hardworking Web developer and a Science graduate from  the University of Colombo 🎓 has had a passion for Computer Science 💻|📱  and Mathematics since childhood and looking forward to improving my skills in Software Engineering.</h3>
 
 <br/>
 <br/>
@@ -8,9 +8,9 @@
 
 <img align="right" width= "350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sj331h5psr6draixy9cfsltnnlia0j9w8qpea31k&rid=giphy.gif&ct=g" alt="image" /> </br>
 
-- 🌱 I’m currently learning ** Mongo DB | Typescript | C# | Asp.Net**
+- 🌱 I’m currently learning ** Mongo DB | Typescript | C# | .Net | OracleDB**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C#, ,.NET 6 | .NET 7, React, Node, Java, Material UI**
+- 💬 Ask me about **HTML, CSS, JavaScript, C#, .NET Core, .NET Framework, React, Node, Java, Material UI**
 
 - 📫 How to reach me **ishanrandikadev95@gmail.com**
 
